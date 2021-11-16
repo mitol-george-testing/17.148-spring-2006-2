@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1d6e1725-27ea-224e-988e-8add2f1814bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Political Economy of Globalization",
+  "course_description": "This is a graduate seminar for students who already have some familiarity with issues in political economy and/or European politics. The objective is to examine the ways in which changes in the international economy and the regimes that regulate it interact with domestic politics, policy-making, and the institutional structures of the political economy in industrialized democracies.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.148",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
